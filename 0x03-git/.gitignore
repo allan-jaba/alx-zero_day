@@ -1,0 +1,6 @@
+# _*_  mode: gitignore; _*_
+*~
+/.emacs.desktop
+*.elc
+.ord-id-locations
+
